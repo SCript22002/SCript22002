@@ -1,0 +1,3 @@
+getgenv().Team = "Marines"
+getgenv().Hide_Menu = false
+loadstring(game:HttpGet("https://apixerohub.x10.mx/main.lua"))()
